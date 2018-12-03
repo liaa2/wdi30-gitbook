@@ -7,8 +7,6 @@ What we covered today:
 * Introduction to the Command Line
 * Command Line Murder Mystery
 
-​Intro Slides​
-
 ### Introduction \| Orientation \| Housekeeping <a id="introduction-or-orientation-or-housekeeping"></a>
 
 **Joel Turnbull** - Lead Instructor - [jturnbull@ga.co](mailto:jturnbull@ga.co)
@@ -29,7 +27,14 @@ The GA campus is typically open from 8.45am to 9pm on weekdays and from 9am to 4
 
 You guys came up with these rules for the next 12 weeks:
 
-* 
+* type/write faster
+* be excellent to each other
+* remember to breathe
+* be happy
+* memes
+* they don't have to be good
+* eat snickers
+
 ### Geek / Hacker Culture <a id="geek-hacker-culture"></a>
 
 Share and enjoy:
@@ -46,8 +51,8 @@ Share and enjoy:
 ### GitBook, Homework Repository, Code-Along Repository <a id="gitbook-homework-repository-code-along-repository"></a>
 
 * ​**GitBook** - You're reading it right now. At the end of each day, I will update this GitBook to include notes for the day's lessons.
-* ​​**Homework Repo** - Before class every morning, you should submit your homework for the last day using Github. The repository \("repo"\) has instructions for submitting your homework.
-* ​**Classwork Repo** - Missed something during a code-along? You can check this repository for the 'official' code.
+* ​​[**Homework Repo**](https://github.com/liaa2/wdi30-homework) - Before class every morning, you should submit your homework for the last day using Github. The repository \("repo"\) has instructions for submitting your homework.
+* ​[**Classwork Repo**](https://github.com/wofockham/wdi-30) - Missed something during a code-along? You can check this repository for the 'official' code.
 
 ### Important Links, Meetups and Newsletters <a id="important-links-meetups-and-newsletters"></a>
 

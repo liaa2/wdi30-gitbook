@@ -7,7 +7,6 @@ What we covered today:
 * Javascript - Functions
 * Javascript - Coding Conventions
 * Javascript - Operators
-* Javascript - Control Flow - Conditionals
 * Git - Intro to Git
   * **Guest speaker**: Meggan Turner 🐕 - [Slides](http://slides.com/megganturner/what-the-heck-is-git-anyway#/).
 
@@ -532,61 +531,6 @@ if(null){
   console.log("It is truthy.")
 }
 // => no output
-```
-
-## Javascript Control Flow: Conditionals <a id="javascript-control-flow-conditionals"></a>
-
-We can use an **if statement** to tell Javascript which statements to execute, based on a condition.
-
-If the condition \(the things within the parentheses\) evaluates to true, it will run whatever is within the curly brackets. Otherwise, it will skip over the code in the curly brackets:
-
-### if <a id="if"></a>
-
-```javascript
-const x = 5;​
-​
-if ( x > 0 ) {  
-// This will run unless the variable x has a value less than or equal to zero.  
-  console.log( "x is a positive number!" );
-}
-// => "x is a positive number!"
-```
-
-### if / else <a id="if-else"></a>
-
-We can give if statements a fallback using **else** - if the condition in the if statement is not met, the code within the else block will be executed:
-
-```javascript
-const age = 28;
-if (age > 16) {  
-  console.log('Yay, you can drive!');
-} else {  
-  console.log('Sorry, but you have ' + (16 - age) + ' years til you can drive.');
-}
-// => 'Yay, you can drive!'le.log('Sorry, but you have ' + (16 - age) + ' years til you can drive.');}// => 'Yay, you can drive!'
-```
-
-With an `if` / `else` pattern, Javascript will:
-
-* Always run one of the statements; and
-* Never run both of the statements.
-
-### if / else if / else <a id="if-else-if-else"></a>
-
-You can also use **else if** if you have multiple, exclusive conditions to check - this is similar to chaining multiple if statements:
-
-```javascript
-const age = 20;
-if (age >= 35) {  
-  console.log('You can vote AND hold any place in government!');
-} else if (age >= 25) {  
-  console.log('You can vote AND run for the Senate!');
-} else if (age >= 18) {  
-  console.log('You can vote!');
-} else {  
-  console.log('You have no voice in government!');
-}
-// => "You can vote!"
 ```
 
 ## Homework <a id="homework"></a>

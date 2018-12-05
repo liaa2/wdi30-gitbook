@@ -16,7 +16,15 @@
 * Javascript - Functions
 * Javascript - Coding Conventions
 * Javascript - Operators
-* Javascript - Control Flow - Conditionals
+
+### [Day 03​](day-03.md) <a id="day-03"></a>
+
+* Github - homework
+* Javascript - Conditionals
+* Javascript - Arrays
+* Javascript - Loops
+
+###   <a id="day-04"></a>
 
 
 

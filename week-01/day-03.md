@@ -11,7 +11,8 @@ What we covered today.
 
 ### Slides <a id="slides"></a>
 
-* ​[Loops](http://www.teaching-materials.org/javascript/slides/controlflow.html) \(slide 11-14\)
+* [Control Flows](https://www.teaching-materials.org/javascript/slides/controlflow) \(slide 1-10\)
+* [Loops](http://www.teaching-materials.org/javascript/slides/controlflow.html) \(slide 11-14\)
 * ​[Arrays](http://www.teaching-materials.org/javascript/slides/controlflow.html) \(slide 15 onwards\)
 
 ## Our very first warmup! <a id="our-very-first-warmup"></a>
@@ -238,7 +239,7 @@ for (let current = 100; current < 200; current++) {
 
 ### _Control Flow in Javascript: Loops - Exercises_ <a id="control-flow-in-javascript-loops-exercises"></a>
 
-* ​Loops Exercises​
+* [​Loops Exercises​](https://gist.github.com/wofockham/57b6d4f81cf794de078a)
   * ​Solution​​
 
 ### Recursion \(Basics\) <a id="recursion-basics"></a>
@@ -308,7 +309,7 @@ for ( let i = 0; i < greatPeople.length; i++ ) {
 
 ### _Javascript - Arrays - Exercise_ <a id="javascript-collections-arrays-exercise"></a>
 
-* ​Array Exercises​
+* ​[Array Exercises​](https://gist.github.com/ga-wolf/4f200a907382aa53dc9e794d1ee18b3c)
 
 ### How to set elements in an array <a id="how-to-set-elements-in-an-array"></a>
 

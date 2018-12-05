@@ -15,6 +15,10 @@ What we covered today.
 * [Loops](http://www.teaching-materials.org/javascript/slides/controlflow.html) \(slide 11-14\)
 * ​[Arrays](http://www.teaching-materials.org/javascript/slides/controlflow.html) \(slide 15 onwards\)
 
+### Classwork
+
+* [Solutions](https://github.com/wofockham/wdi-30/tree/master/01-javascript)
+
 ## Our very first warmup! <a id="our-very-first-warmup"></a>
 
 ![](../.gitbook/assets/tenor.gif)
@@ -240,7 +244,6 @@ for (let current = 100; current < 200; current++) {
 ### _Control Flow in Javascript: Loops - Exercises_ <a id="control-flow-in-javascript-loops-exercises"></a>
 
 * [​Loops Exercises​](https://gist.github.com/wofockham/57b6d4f81cf794de078a)
-  * ​Solution​​
 
 ### Recursion \(Basics\) <a id="recursion-basics"></a>
 

@@ -403,7 +403,7 @@ amazingFrenchAuthors.indexOf("Anäis Nin");
 
 ## Homework <a id="homework"></a>
 
-* ​Word Guesser​
+* ​[Word Guesser​](https://gist.github.com/wofockham/61148df9403b3cfc2138)
 * Bonus - Read:
   * ​[MDN - Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) - MDN is an amazing resource for Javascript, HTML and CSS.
   * ​[Javascript Tutorials - Arrays](http://javascript.info/tutorial/array)​

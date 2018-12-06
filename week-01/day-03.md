@@ -17,7 +17,8 @@ What we covered today.
 
 ### Classwork
 
-* [Solutions](https://github.com/wofockham/wdi-30/tree/master/01-javascript)
+* [Loops Exercises](https://github.com/wofockham/wdi-30/tree/master/01-javascript/js-loops)
+* [Arrays Exercises](https://github.com/wofockham/wdi-30/tree/master/01-javascript/js-arrays)
 
 ## Our very first warmup! <a id="our-very-first-warmup"></a>
 

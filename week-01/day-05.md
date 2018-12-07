@@ -9,9 +9,12 @@ What we covered today:
   * Methods
   * Factories and Constructors
 * JavaScript - Advanced Functions
-
   * The `this` Keyword
   * The `arguments` Object
+
+### Slides
+
+* [Review](https://www.teaching-materials.org/_deprecated/jsreview/#/)
 
 ### Classwork
 

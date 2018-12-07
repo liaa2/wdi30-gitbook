@@ -28,6 +28,14 @@
 
 * Javascript - Objects
 
+### [Day 05​](day-05.md) <a id="day-05"></a>
+
+* The `this` Keyword
+* The `arguments` Object
+* Factories and Constructors
+
+
+
 ###   <a id="day-04"></a>
 
 

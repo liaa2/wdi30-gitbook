@@ -5,9 +5,10 @@ What we covered today:
 * HTML
 * CSS
 
-### Slides <a id="slides"></a>
+### Classwork
 
-* ​[HTML and CSS](https://textchimp.github.io/wdi-29/week2/html_and_css.pdf)​
+* [html intro](https://github.com/wofockham/wdi-30/tree/master/02-html-css/html-intro)
+* [css intro](https://github.com/wofockham/wdi-30/tree/master/02-html-css/css-intro)
 
 ## HTML <a id="html"></a>
 

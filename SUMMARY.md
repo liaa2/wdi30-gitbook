@@ -10,4 +10,5 @@
 * [Week 02](week-02/README.md)
   * [Day 01](week-02/day-01.md)
   * [Day 02](week-02/day-02.md)
+  * [Day 03](week-02/day-03.md)
 

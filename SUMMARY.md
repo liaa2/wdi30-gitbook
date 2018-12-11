@@ -9,4 +9,5 @@
   * [Day 05](week-01/day-05.md)
 * [Week 02](week-02/README.md)
   * [Day 01](week-02/day-01.md)
+  * [Day 02](week-02/day-02.md)
 

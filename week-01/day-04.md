@@ -7,7 +7,7 @@ What we covered today:
 
 ### Slides <a id="slides"></a>
 
-* [​Javascript Objects](https://www.teaching-materials.org/javascript/slides/objects)​ \(slide 19 onwards\)
+* [​Javascript Objects](https://www.teaching-materials.org/javascript/slides/objects)​ 
 
 ### Classwork <a id="classwork"></a>
 

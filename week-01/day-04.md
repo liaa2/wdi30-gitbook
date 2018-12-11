@@ -7,7 +7,7 @@ What we covered today:
 
 ### Slides <a id="slides"></a>
 
-* ​[Javascript Objects​](https://textchimp.github.io/wdi-29/week1/javascript-collections.pdf) \(slide 19 onwards\)
+* [​Javascript Objects](https://www.teaching-materials.org/javascript/slides/objects)​ \(slide 19 onwards\)
 
 ### Classwork <a id="classwork"></a>
 

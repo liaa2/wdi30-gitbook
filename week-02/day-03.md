@@ -17,7 +17,11 @@ What we covered today:
 
 ### **Slides**
 
-* ​​The DOM, events, selectors, timers and callbacks​​
+* [Javascript Review](https://www.teaching-materials.org/jsweb/slides/review#/)
+* [Javascript Making webpages interactive](https://www.teaching-materials.org/jsweb/slides/welcome#/)
+* [JavaScript and the DOM](http://www.teaching-materials.org/jsweb/slides/dom.html)
+* [Selecting from the DOM](http://www.teaching-materials.org/jsweb/exercises/dom_detective.html)
+* [Events and Animation](http://www.teaching-materials.org/jsweb/slides/animevents.html)
 
 ## JavaScript - The Document Object Model \(DOM\)
 

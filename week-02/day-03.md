@@ -17,7 +17,7 @@ What we covered today:
 
 ### **Slides**
 
-* ​[​The DOM, events, selectors, timers and callbacks​](https://github.com/textchimp/wdi-29/blob/master/week2/javascript-and-html.pdf)​
+* ​​The DOM, events, selectors, timers and callbacks​​
 
 ## JavaScript - The Document Object Model \(DOM\)
 

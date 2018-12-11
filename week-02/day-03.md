@@ -224,11 +224,7 @@ pageNode.appendChild(newParagraph);
 
 #### _Document Object Model - Manipulating elements - Exercises_ <a id="document-object-model-manipulating-elements-exercises"></a>
 
-* ​Exercises: DOM Access​
-* ​Exercises: Logo Hijack​
-* ​Exercises: AboutMe & Booklist​
-
-  ​
+* ​
 
 ### Events <a id="events"></a>
 

@@ -18,6 +18,7 @@ What we covered today:
 ### **Slides**
 
 * [JavaScript and the DOM](https://www.teaching-materials.org/jsweb/slides/dom)
+* [Events & Animation](https://www.teaching-materials.org/jsweb/slides/animevents#/)
 
 ### Classwork
 

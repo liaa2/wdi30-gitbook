@@ -270,6 +270,10 @@ button.addEventListener('click', onClick);
 
 * ​[JSBin - Event Listener - button click](http://jsbin.com/goguxomiwo/edit?js,output)​
 
+#### _Exercises_
+
+* \_\_[_Events Exercises_](https://gist.github.com/wofockham/e440100cee2a3eb7e606)\_\_
+
 ## JavaScript - The Window Object <a id="javascript-the-window-object"></a>
 
 When you run JS in the browser, it gives you the window object with many useful properties and methods:

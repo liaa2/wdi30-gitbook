@@ -17,11 +17,7 @@ What we covered today:
 
 ### **Slides**
 
-* [Javascript Review](https://www.teaching-materials.org/jsweb/slides/review#/)
-* [Javascript Making webpages interactive](https://www.teaching-materials.org/jsweb/slides/welcome#/)
-* [JavaScript and the DOM](http://www.teaching-materials.org/jsweb/slides/dom.html)
-* [Selecting from the DOM](http://www.teaching-materials.org/jsweb/exercises/dom_detective.html)
-* [Events and Animation](http://www.teaching-materials.org/jsweb/slides/animevents.html)
+* [JavaScript and the DOM](https://www.teaching-materials.org/jsweb/slides/dom)
 
 ## JavaScript - The Document Object Model \(DOM\)
 
@@ -224,7 +220,7 @@ pageNode.appendChild(newParagraph);
 
 #### _Document Object Model - Manipulating elements - Exercises_ <a id="document-object-model-manipulating-elements-exercises"></a>
 
-* ​
+* [​DOM exercises](https://gist.github.com/wofockham/894b9a5e05a971e0208b)
 
 ### Events <a id="events"></a>
 

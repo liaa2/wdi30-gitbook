@@ -269,6 +269,7 @@ button.addEventListener('click', onClick);
 ```
 
 * ​[JSBin - Event Listener - button click](http://jsbin.com/goguxomiwo/edit?js,output)​
+* [JSBin - Event Listener - input](https://jsbin.com/sumafejapi/edit?js,output)
 
 #### _Exercises_
 

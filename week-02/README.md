@@ -14,5 +14,18 @@
 * CSS - Fonts
   * Google Fonts
   * Font Awesome
-  * Custom Fonts
+  * Custom Font
+
+### [Day 03​](day-03.md) <a id="day-03"></a>
+
+* JavaScript - The Document Object Model \(DOM\)
+  * Accessing Elements \(Selection\)
+  * Manipulating Elements
+  * Creating Elements
+  * Events
+* JavaScript - Animation
+  * Timers
+  * Callbacks
+
+###   <a id="day-04"></a>
 

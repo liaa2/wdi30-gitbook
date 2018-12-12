@@ -19,6 +19,10 @@ What we covered today:
 
 * [JavaScript and the DOM](https://www.teaching-materials.org/jsweb/slides/dom)
 
+### Classwork
+
+* [DOM](https://github.com/wofockham/wdi-30/tree/master/03-dom)
+
 ## JavaScript - The Document Object Model \(DOM\)
 
 **What is the DOM?**
@@ -368,4 +372,9 @@ let fadeTimer = window.setInterval(fadeAway, 100);
 ```
 
 ## **Homework** <a id="homework"></a>
+
+* [The Cat Walk​](https://gist.github.com/wofockham/b4a62f016bfd241627dd)
+* [Dancing cats examples](https://gist.github.com/wofockham/dae0a9d40b7583a4a9f5)
+
+
 

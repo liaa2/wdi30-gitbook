@@ -27,5 +27,10 @@
   * Timers
   * Callbacks
 
+### [Day 04](day-04.md)
+
+* JavaScript - Libraries
+* JavaScript - jQuery - Introduction
+
 ###   <a id="day-04"></a>
 

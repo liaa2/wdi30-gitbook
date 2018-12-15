@@ -8,10 +8,6 @@ What we covered today:
 * JavaScript - jQuery - Patterns and Anti-patterns
 * JavaScript - jQuery - Plugins
 
-### Slides <a id="slides"></a>
-
-* ​Advanced jQuery​
-
 ### Exercises <a id="exercises"></a>
 
 * [​​jQuery Plugins ](https://gist.github.com/wofockham/5474c8ae3f078756fab4)​

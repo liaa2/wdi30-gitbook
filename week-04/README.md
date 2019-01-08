@@ -15,3 +15,10 @@
   * Control Structures
 * Ruby - Methods
 
+### [Day 02](day-02.md)
+
+* Ruby - Collections
+  * Arrays
+  * Hashes
+* Ruby Basics Part II
+

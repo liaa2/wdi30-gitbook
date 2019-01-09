@@ -22,3 +22,8 @@
   * Hashes
 * Ruby Basics Part II
 
+### [Day 03](day-03.md)
+
+* Web Servers
+* Sinatra
+

@@ -27,3 +27,8 @@
 * Web Servers
 * Sinatra
 
+### [Day 04](day-04.md)
+
+* SQL \(Structured Query Language\)
+* Sinatra - CRUD with SQL
+

@@ -18,4 +18,5 @@
   * [Day 02](week-04/day-02.md)
   * [Day 03](week-04/day-03.md)
   * [Day 04](week-04/day-04.md)
+  * [Day 05](week-04/day-05.md)
 

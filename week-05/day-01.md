@@ -89,7 +89,7 @@ After this, we alter our Gemfile to be more suited for debugging. The code we te
 
 ```ruby
 group :development do
-  gem 'pry-rails' #add the gem under development group
+  gem 'pry-rails' #add the gem under existing development group
 end
 ```
 

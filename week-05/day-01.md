@@ -88,7 +88,9 @@ The first changes we should make to the Gemfile are to make debugging easier.
 After this, we alter our Gemfile to be more suited for debugging. The code we tend to use is this...
 
 ```ruby
-gem 'pry-rails'
+group :development do
+  gem 'pry-rails' #add the gem under development group
+end
 ```
 
 It's important to make sure those particular Gems go in a `group :development` block - we don't want those Gems being installed in the production environment!

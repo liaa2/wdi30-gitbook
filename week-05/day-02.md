@@ -288,21 +288,21 @@ Treat this as a really rough guide, and definitely don't always follow it - you'
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">8</td>
+      <td style="text-align:left">7</td>
       <td style="text-align:left">Open atom</td>
       <td style="text-align:left">Atom</td>
       <td style="text-align:left"><code>atom .</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">9</td>
+      <td style="text-align:left">8</td>
       <td style="text-align:left">Go to db folder</td>
       <td style="text-align:left">Atom</td>
       <td style="text-align:left">Go to db -> create <code>create_kittens.sql</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">10</td>
+      <td style="text-align:left">9</td>
       <td style="text-align:left">Create table</td>
       <td style="text-align:left">Atom</td>
       <td style="text-align:left">
@@ -321,7 +321,7 @@ Treat this as a really rough guide, and definitely don't always follow it - you'
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">11</td>
+      <td style="text-align:left">10</td>
       <td style="text-align:left">Add sql table into database</td>
       <td style="text-align:left">Terminal</td>
       <td style="text-align:left">
@@ -332,7 +332,7 @@ Treat this as a really rough guide, and definitely don't always follow it - you'
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">12</td>
+      <td style="text-align:left">11</td>
       <td style="text-align:left">Check schema</td>
       <td style="text-align:left">Terminal</td>
       <td style="text-align:left">
@@ -345,7 +345,7 @@ Treat this as a really rough guide, and definitely don't always follow it - you'
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">13</td>
+      <td style="text-align:left">12</td>
       <td style="text-align:left">Create seed data</td>
       <td style="text-align:left">Terminal</td>
       <td style="text-align:left">
@@ -362,14 +362,14 @@ Treat this as a really rough guide, and definitely don't always follow it - you'
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">14*</td>
+      <td style="text-align:left">13*</td>
       <td style="text-align:left">Create first controller</td>
       <td style="text-align:left">Terminal</td>
       <td style="text-align:left"><code>We will do it manually for now (go to the controller folder and create a controller file called &quot;kittens_controller.rb&quot;)</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">15</td>
+      <td style="text-align:left">14</td>
       <td style="text-align:left">Add model</td>
       <td style="text-align:left">Atom</td>
       <td style="text-align:left">
@@ -382,19 +382,19 @@ Treat this as a really rough guide, and definitely don't always follow it - you'
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">16</td>
+      <td style="text-align:left">15</td>
       <td style="text-align:left">Add methods to the controller</td>
       <td style="text-align:left">/app/controllers/kittens_controller.rb</td>
       <td style="text-align:left">Add methods for each action</td>
     </tr>
     <tr>
-      <td style="text-align:left">17</td>
+      <td style="text-align:left">16</td>
       <td style="text-align:left">Add views for your actions</td>
       <td style="text-align:left">/app/views/kittens/</td>
       <td style="text-align:left">Add an [action].html.erb file for each action that has an associated view</td>
     </tr>
     <tr>
-      <td style="text-align:left">18</td>
+      <td style="text-align:left">17</td>
       <td style="text-align:left">Configure routes</td>
       <td style="text-align:left">/config/routes.rb</td>
       <td style="text-align:left">
@@ -428,10 +428,10 @@ Treat this as a really rough guide, and definitely don't always follow it - you'
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">19</td>
+      <td style="text-align:left">18</td>
       <td style="text-align:left">Repeat for other models</td>
       <td style="text-align:left">-</td>
-      <td style="text-align:left">Repeat steps 9-18 for each model</td>
+      <td style="text-align:left">Repeat steps 8-17 for each model</td>
     </tr>
   </tbody>
 </table>\* You can specify the actions for which you would like Rails to create views and methods when generating the controller by adding them to the end of the command - eg `rails generate controller Kittens index show edit new`. This will create those views, and the placeholder methods in your controller, but it also generates a bunch of routes that you will probably want to delete.

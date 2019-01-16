@@ -12,3 +12,10 @@
 * Ruby on Rails - Rails in the Terminal
 * Ruby on Rails - Basic Project Setup \(with database\)
 
+### [Day 03](day-03.md)
+
+* PostgreSQL - Install
+* Ruby on Rails - Migrations
+* Ruby on Rails - Generators
+* Ruby on Rails - Associations I
+

@@ -300,6 +300,7 @@ A few things to note about `has_many` associations:
 
 ## **Homework**
 
+* Create a CRUD system for two associated models, similar to today's codealong. a director has many films, an author has many books, a musician has many songs, a sportsball team has many sportsball players
 * Read:
   * [Rails Guides - Active Record Migrations](http://guides.rubyonrails.org/v4.2/active_record_migrations.html)
   * [Rails Guides - Active Record Associations](http://guides.rubyonrails.org/v4.2/association_basics.html)

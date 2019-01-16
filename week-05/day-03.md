@@ -304,4 +304,8 @@ A few things to note about `has_many` associations:
 * Read:
   * [Rails Guides - Active Record Migrations](http://guides.rubyonrails.org/v4.2/active_record_migrations.html)
   * [Rails Guides - Active Record Associations](http://guides.rubyonrails.org/v4.2/association_basics.html)
+  * [https://guides.rubyonrails.org/form\_helpers.html\#dealing-with-model-objects](https://guides.rubyonrails.org/form_helpers.html#dealing-with-model-objects)
+  * [https://guides.rubyonrails.org/action\_controller\_overview.html\#strong-parameters](https://guides.rubyonrails.org/action_controller_overview.html#strong-parameters)
+  * [https://guides.rubyonrails.org/routing.html\#resource-routing-the-rails-default](https://guides.rubyonrails.org/routing.html#resource-routing-the-rails-default)
+  * [https://guides.rubyonrails.org/command\_line.html\#rails-generate](https://guides.rubyonrails.org/command_line.html#rails-generate)
 

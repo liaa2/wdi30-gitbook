@@ -15,7 +15,7 @@ What we covered today:
 
 ### Classwork <a id="classwork"></a>
 
-* ​​Tunr​​
+* ​​[Tunr](https://github.com/wofockham/wdi-30/tree/master/08-rails/tunr)​​
 
 ## Ruby on Rails - Associations II  <a id="ruby-on-rails-associations"></a>
 

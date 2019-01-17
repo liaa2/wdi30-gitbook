@@ -23,4 +23,5 @@
   * [Day 01](week-05/day-01.md)
   * [Day 02](week-05/day-02.md)
   * [Day 03](week-05/day-03.md)
+  * [Day 04](week-05/day-04.md)
 

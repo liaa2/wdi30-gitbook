@@ -19,3 +19,12 @@
 * Ruby on Rails - Generators
 * Ruby on Rails - Associations I
 
+### [Day 04](day-04.md)
+
+* Ruby on Rails - Associations II
+* Ruby on Rails - User login:
+  * Ruby on Rails - Authentication
+  * Ruby on Rails - Authorisation
+  * Ruby on Rails - Sessions
+* Ruby on Rails - Basic Project Setup \(with multiple models\)
+

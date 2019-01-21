@@ -17,7 +17,7 @@ Heroku is completely based on Git, meaning that it relies on us pushing code up 
 ## _Steps for Deploying a Rails app to Heroku_ <a id="steps-for-deploying-a-rails-app-to-heroku"></a>
 
 * Make an account - [here.](https://signup.heroku.com/www-header)​
-* Install the heroku toolbelt - see [here](https://toolbelt.heroku.com/) or use `brew install heroku`
+* Install the heroku toolbelt - see [here](https://toolbelt.heroku.com/) or use `brew install heroku/brew/heroku`
 * Make sure that it has worked
   * `heroku --version` or `heroku -v`
   * `which heroku`

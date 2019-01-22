@@ -27,5 +27,5 @@
 * [Modules](modules/README.md)
   * [Git Repository Setup](modules/git-repository-setup.md)
   * [Heroku](modules/heroku.md)
-  * [Cloudinary](modules/untitled.md)
+  * [Cloudinary](modules/cloudinary.md)
 

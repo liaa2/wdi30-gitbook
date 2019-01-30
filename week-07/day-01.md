@@ -12,7 +12,7 @@ What we covered today:
 
 ### Codealong <a id="codealong"></a>
 
-* [TDD](https://github.com/wofockham/wdi-30/tree/master/09-tdd/bank)
+* [TDD Bank](https://github.com/wofockham/wdi-30/tree/master/09-tdd/bank)
 * [AJAX](https://github.com/wofockham/wdi-30/tree/master/10-ajax)
 
 ## Test-Driven Development <a id="test-driven-development"></a>

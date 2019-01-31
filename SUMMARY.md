@@ -27,6 +27,7 @@
 * [Week 07](week-07/README.md)
   * [Day 01](week-07/day-01.md)
   * [Day 02](week-07/day-02-1.md)
+  * [Day 03](week-07/day-03.md)
 * [Modules](modules/README.md)
   * [Git Repository Setup](modules/git-repository-setup.md)
   * [Heroku](modules/heroku.md)

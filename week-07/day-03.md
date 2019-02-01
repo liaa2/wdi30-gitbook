@@ -6,6 +6,7 @@ What we covered today:
 * [Underscore.js](https://github.com/wofockham/wdi-30/tree/master/11-underscore)
 * AJAX on Rails
 * Node Install Fest
+* [Elm](https://github.com/wofockham/wdi-30/tree/master/0x-bonus/elm-intro)
 
 Warmup
 
@@ -1724,4 +1725,38 @@ node -v=> v9.4.1
 #### To open the application run <a id="to-open-the-application-run"></a>
 
 `learnyounode`
+
+## `Elm`
+
+\`\`[`elm`](https://elm-lang.org/) `- a delgihtful language for reliable webapps`
+
+#### `Install Elm Globally`
+
+```bash
+npm install -g elm
+```
+
+#### To view elm code in the bash terminal
+
+```bash
+elm repl
+```
+
+#### Create .elm files into your project folder
+
+```bash
+touch file.elm
+```
+
+#### Initialize the Elm project
+
+```bash
+elm init
+```
+
+#### Start the elm server
+
+```text
+elm reactor
+```
 

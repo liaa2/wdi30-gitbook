@@ -1,3 +1,7 @@
+---
+description: Nightmare on *Elm* Street
+---
+
 # Day 03
 
 What we covered today:

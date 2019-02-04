@@ -1,3 +1,7 @@
+---
+description: 'Test 1, 2... Test 1, 2...'
+---
+
 # Day 01
 
 What we covered today:

@@ -1,3 +1,7 @@
+---
+description: 'Components and Props and Events, oh my!'
+---
+
 # Day 04
 
 What we covered today:

@@ -7,7 +7,7 @@ description: Thank god for crapp...
 What we covered today:
 
 * [Babel Transpilation](https://babeljs.io/)
-* [Preact and Webpack](https://github.com/wofockham/wdi-30/tree/master/12-react/flickr-search)
+* [Roll your own web app with Preact and Webpack](https://gist.github.com/wofockham/578b797d881f71b983dd50ae660f1c9f)
 * React
   * React Data Flow
   * React Flickr Search

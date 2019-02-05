@@ -1,6 +1,6 @@
 ---
 description: >-
-  This is the pre-boarding announcement for Burining Airline flight BA123. Get
+  This is the pre-boarding announcement for Burning Airline flight BA123. Get
   the hell onboard!
 ---
 

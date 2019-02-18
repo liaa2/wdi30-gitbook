@@ -6,12 +6,12 @@ description: '/ bb | [^b] {2} /, that is the question...'
 
 What we covered today:
 
-* Regular expressions
-* RSPEC On Rails
+* [Regular expressions](https://github.com/wofockham/wdi-30/tree/master/0x-bonus/regular-expressions)
+* [RSPEC On Rails](https://github.com/wofockham/wdi-30/tree/master/09-tdd/fruitstore)
 
 ### Warmup <a id="warmup"></a>
 
-* Prime Factors
+* [Prime Factors](https://github.com/Yiannimoustakas/wdi30-homework/tree/master/warmups/week10/day01_prime_factors)
 
 ## Regular Expressions I <a id="regular-expressions-i"></a>
 

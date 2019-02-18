@@ -1,5 +1,5 @@
 ---
-description: '/ bb | [^b] {2} /, that is the question... William Shakespeare'
+description: '/ bb | [^b] {2} /, that is the question...'
 ---
 
 # Day 01

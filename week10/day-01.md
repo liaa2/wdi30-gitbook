@@ -7,7 +7,7 @@ description: '/ bb | [^b] {2} /, that is the question...'
 What we covered today:
 
 * [Regular expressions](https://github.com/wofockham/wdi-30/tree/master/0x-bonus/regular-expressions)
-* [RSPEC On Rails](https://github.com/wofockham/wdi-30/tree/master/09-tdd/fruitstore)
+* [Rspec On Rails](https://github.com/wofockham/wdi-30/tree/master/09-tdd/fruitstore)
 
 ### Warmup <a id="warmup"></a>
 

@@ -2,8 +2,21 @@
 
 
 
-* [Babel](https://babeljs.io/)
-* [Preact and Webpack](https://gist.github.com/wofockham/578b797d881f71b983dd50ae660f1c9f)
+### [Day 01](./#day-01)
+
+* Babel Transpilation
+* Roll your own web app with Preact and Webpack
 * React
-* Burning Airlines
+  * React Data Flow
+  * React Flickr Search
+  * React Routing
+
+### [Day 02](./#day-02)
+
+* React with Rails backend - Client/Server
+* Burning Airlines!
+
+### Day 03
+
+* Burning Airlines!
 

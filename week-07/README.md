@@ -1,14 +1,12 @@
 # Week 07
 
-
-
-### [Day 01](../week-05/day-01.md)
+### [Day 01](./#day-01)
 
 * Ruby - Test Driven Development \(TDD\)
 * JavaScript - Callbacks Interlude
 * JavaScript - AJAX and XHR
 
-### [Day 02](../week-05/day-02.md)
+### [Day 02](./#day-02)
 
 * Google Books Solution with jQuery
 * JavaScript - AJAX with jQuery
@@ -16,7 +14,7 @@
 * Callback Review
 * Flickr Search
 
-### [Day 03](../week-05/day-03.md)
+### [Day 03](./#day-03)
 
 * More Flickr Search
 * Underscore.js
@@ -24,7 +22,7 @@
 * Node Install Fest
 * Elm
 
-### [Day 04](../week-05/day-04.md)
+### [Day 04](./#day-04)
 
 * React
   * Components

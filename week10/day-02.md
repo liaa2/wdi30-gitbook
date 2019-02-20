@@ -6,13 +6,13 @@ description: 'To iterate is human, to recurse divine'
 
 What we covered today:
 
-* Recursion
-* Vue.js
-* Node.js
+* [Recursion](https://github.com/wofockham/wdi-30/tree/master/13-advanced/recursion)
+* [Vue.js](https://github.com/wofockham/wdi-30/tree/master/13-advanced/vue-intro)
+* [Node.js](https://github.com/wofockham/wdi-30/tree/master/13-advanced/node-intro)
 
 Warmup
 
-* Happy Numbers
+* [Happy Numbers](https://github.com/Yiannimoustakas/wdi30-homework/tree/master/warmups/week10/day02_happy_numbers)
 
 ## Recursion
 
@@ -186,7 +186,7 @@ This example is extremely slow because we call the method twice with each iterat
 ## Vue Intro
 
 * [Guide](https://vuejs.org/v2/guide/)
-* Class Demo
+* [Class Demo](https://github.com/wofockham/wdi-30/tree/master/13-advanced/vue-intro)
 
 
 

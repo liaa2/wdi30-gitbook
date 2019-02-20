@@ -4,6 +4,7 @@ What we covered today:
 
 * [Fibonacci Solutions](https://github.com/wofockham/wdi-30/tree/master/13-advanced/recursion)
 * [Meteor.js](https://github.com/wofockham/wdi-30/tree/master/13-advanced/simple-todos)
+* Paintr
 
 Warmup
 
@@ -55,6 +56,12 @@ Step 6: Start Meteor Server
 ```bash
 meteor
 ```
+
+## Haml
+
+Haml \(HTML abstraction markup language\) is based on one primary principle: _markup should be beautiful_. It’s not just beauty for beauty’s sake either; Haml accelerates and simplifies template creation down to veritable haiku.
+
+* [Haml](http://haml.info)
 
 
 

@@ -1,5 +1,5 @@
 ---
-description: I'm slowly dying!! SOMEONE PLEASE HELP!
+description: I'm slowly drowning in code!! SOMEONE PLEASE HELP!
 ---
 
 # Day 05

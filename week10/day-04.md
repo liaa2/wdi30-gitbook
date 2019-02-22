@@ -1,4 +1,17 @@
+---
+description: 'Express.js: Fast, unopinionated, minimalist, just like my sex life'
+---
+
 # Day 04
+
+What we covered today:
+
+* [Express](https://github.com/wofockham/wdi-30/tree/master/14-node/express-intro) 
+* [Stupid Front End Tricks](https://github.com/wofockham/wdi-30/tree/master/13-advanced/stupid_frontend_tricks)
+
+Warmup
+
+* [Ajax Proxy](https://github.com/Yiannimoustakas/wdi30-homework/tree/master/warmups/week10/day04_ajax_proxy)
 
 ### Express
 

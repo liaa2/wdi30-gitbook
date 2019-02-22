@@ -1,3 +1,7 @@
+---
+description: Web servers now! You're starting to learn some pretty important nerd stuff!
+---
+
 # Day 03
 
 What we covered today:

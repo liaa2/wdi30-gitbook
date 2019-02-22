@@ -1,3 +1,7 @@
+---
+description: 'Wow, getting into the nitty gritty!'
+---
+
 # Day 03
 
 What we covered today.

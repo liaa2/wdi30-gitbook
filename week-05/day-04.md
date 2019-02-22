@@ -1,3 +1,7 @@
+---
+description: '*note to self* Password = "chicken".'
+---
+
 # Day 04
 
 What we covered today:

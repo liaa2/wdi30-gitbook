@@ -1,3 +1,7 @@
+---
+description: RoR FTW!
+---
+
 # Day 01
 
 What we covered today:

@@ -1,3 +1,7 @@
+---
+description: These powers! I'm ascending my human form!
+---
+
 # Day 04
 
 What we covered today:

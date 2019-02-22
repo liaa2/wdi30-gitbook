@@ -1,3 +1,7 @@
+---
+description: Hold on... Wait Slow Down! This is going too fast!
+---
+
 # Day 04
 
 What we covered today:

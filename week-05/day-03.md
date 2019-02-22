@@ -1,3 +1,7 @@
+---
+description: Now to throw away everything you learned about sqlite3. PostgresQL is here
+---
+
 # Day 03
 
 What we covered today:

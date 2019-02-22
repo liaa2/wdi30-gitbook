@@ -1,3 +1,7 @@
+---
+description: Hello World!
+---
+
 # Day 01
 
 What we covered today:

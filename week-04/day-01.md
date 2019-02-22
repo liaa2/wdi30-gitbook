@@ -1,3 +1,7 @@
+---
+description: Oh... I like this language. It's pretty.
+---
+
 # Day 01
 
 What we covered today:

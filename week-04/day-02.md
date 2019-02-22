@@ -1,3 +1,7 @@
+---
+description: Dang I didn't know I could do that! Neat!
+---
+
 # Day 02
 
 What we covered today:

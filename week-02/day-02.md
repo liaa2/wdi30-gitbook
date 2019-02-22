@@ -1,3 +1,7 @@
+---
+description: 'Hey, I''m getting a hang of this! This is easy!'
+---
+
 # Day 02
 
 What we covered today:

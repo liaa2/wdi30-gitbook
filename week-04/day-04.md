@@ -1,3 +1,7 @@
+---
+description: 'An SQL query walksup to two tables in a bar and asks: Can I join you?'
+---
+
 # Day 04
 
 What we covered today:

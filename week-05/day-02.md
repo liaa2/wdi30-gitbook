@@ -1,3 +1,7 @@
+---
+description: Keep on the tracks or don't bother!
+---
+
 # Day 02
 
 What we covered today:

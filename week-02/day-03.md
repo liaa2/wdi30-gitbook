@@ -1,3 +1,7 @@
+---
+description: Did I say easy? I think I meant medium Difficulty!
+---
+
 # Day 03
 
 What we covered today:

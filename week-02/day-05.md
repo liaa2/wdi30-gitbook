@@ -1,3 +1,7 @@
+---
+description: I'm slowly dying!! SOMEONE PLEASE HELP!
+---
+
 # Day 05
 
 What we covered today:

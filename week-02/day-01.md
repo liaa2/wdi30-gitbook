@@ -1,3 +1,7 @@
+---
+description: You're the CSS to my HTML!
+---
+
 # Day 01
 
 What we covered today:

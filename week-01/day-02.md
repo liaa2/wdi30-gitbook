@@ -1,3 +1,7 @@
+---
+description: JavaScript RuuUuuLL33ZzzZ!
+---
+
 # Day 02
 
 What we covered today:

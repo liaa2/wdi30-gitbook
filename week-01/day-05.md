@@ -1,3 +1,7 @@
+---
+description: Spread the word of the JavaScript Gospel my children!
+---
+
 # Day 05
 
 What we covered today:

@@ -1,3 +1,7 @@
+---
+description: OOP is like real life. Real Life is like code. I need a holiday...
+---
+
 # Day 05
 
 What we covered today:

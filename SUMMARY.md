@@ -36,9 +36,12 @@
   * [Day 01](week10/day-01.md)
   * [Day 02](week10/day-02.md)
   * [Day 03](week10/day-03.md)
+  * [Day 04](week10/day-04.md)
 * [Modules](modules/README.md)
   * [Git Repository Setup](modules/git-repository-setup.md)
   * [Heroku](modules/heroku.md)
   * [Cloudinary](modules/cloudinary.md)
   * [Nokogiri](modules/nokogiri.md)
+  * [Phaser](modules/phaser.md)
+  * [Underscore](modules/underscore.md)
 

@@ -1,3 +1,9 @@
+---
+description: >-
+  Have you heard my Fibonacci joke? It's about as bad as the last two you've
+  heard combined
+---
+
 # Day 03
 
 What we covered today:

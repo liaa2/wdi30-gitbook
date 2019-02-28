@@ -1,3 +1,9 @@
+---
+description: >-
+  How many programmers does it take to change a lightbulb? None, that's a
+  hardware issue
+---
+
 # Day 02
 
 What we covered today:
